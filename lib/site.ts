@@ -6,7 +6,7 @@ export const site = {
   whatsappDisplay: "+250 796 370 747",
   // Update this to the live domain before deploying. Used for canonical
   // URLs, sitemap.xml, robots.txt and Open Graph metadata.
-  url: "https://www.wisdomtutor.rw",
+  url: "https://wisdom-tutor-gilt.vercel.app",
 };
 
 export function waLink(message?: string) {
